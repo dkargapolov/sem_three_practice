@@ -34,4 +34,5 @@
 
 ## Документы 📂
 
-Отчетность по практике 
+> Проектно техническое [задание](https://docs.google.com/document/d/1EourdIuU5nZEvSRvOM8bNKvr2HHPxmIp/edit?usp=sharing&ouid=106211773812617565824&rtpof=true&sd=true)
+> / [Отчёт](https://docs.google.com/document/d/10J96_rr44nMkDm1sqRpmPtq8gT2O7qXB/edit?usp=sharing&ouid=106211773812617565824&rtpof=true&sd=true)
