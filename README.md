@@ -8,7 +8,7 @@
 
 ## ИСР 1.2 🗸
 
->Проектная работа по VScode [Скринкаст]() и [Презентация](https://docs.google.com/presentation/d/13fpvm7Od1NqXCtQPd-VcxG3Wkcus6MiUQOJB-azhpvI/edit?usp=sharing)
+>Проектная работа по VScode [Скринкаст](https://disk.yandex.ru/i/y4PbAZDJ1aXERg) и [Презентация](https://docs.google.com/presentation/d/13fpvm7Od1NqXCtQPd-VcxG3Wkcus6MiUQOJB-azhpvI/edit?usp=sharing)
 
 ## ИСР 1.3 🗸
 
