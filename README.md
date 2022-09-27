@@ -13,7 +13,8 @@
 ## ИСР 1.3 🗸
 
 >Документация по Яндекс.Трекер.
-[Руководство пользователя](https://github.com/dkargapolov/upt_practise/blob/44051fe024797093b0ff53e6e4dd4222fbc4e240/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%A2%D1%80%D0%B5%D0%BA%D0%B5%D1%80'%D0%B0.pdf)
+[Презентация](https://github.com/dkargapolov/upt_practise/blob/ce2dbbf29fac25a1a909588b8329db901b06f4e5/Yandex.Tracker%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf) /
+[Руководство пользователя](https://github.com/dkargapolov/upt_practise/blob/ce2dbbf29fac25a1a909588b8329db901b06f4e5/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%20Yandex.Tracker'a%202.0.pdf)
 -------------------------------------
 
 ## ВСР 2.1 🗸
